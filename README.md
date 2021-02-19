@@ -5,14 +5,14 @@
 Feel free to try yourself and play with the app. url:https://smart-brain-freddy.herokuapp.com
 
 ## Features
-✔️ Full Stack Development
-✔️ React Framework used for Front-End
-✔️ Node.js + Express.js used for Back-End
-✔️ PostgreSQL used for Database
+✔️ Full Stack Development\
+✔️ React Framework used for Front-End\
+✔️ Node.js + Express.js used for Back-End\
+✔️ PostgreSQL used for Database\
 ✔️ Built with tachyons and Custom CSS\
 ✔️ Light Clean Codes\
 ✔️ Fully Responsive\
-✔️ Valid HTML5 & CSS3\
+✔️ Valid HTML5 & CSS3
 
 ---
 ## Getting Started 🚀
@@ -25,5 +25,15 @@ I choose to use Clarifai face recognition API (url:https://www.clarifai.com/mode
 
 ## Why React?
 
-React is an Front-End Frameworrk, and it has many advantages such as modulized components, easy maintenance, etc. Most important, it is easy to pick up and is popular throughout recent front-end environment (Vue.js is like an elevator with nowadays). For the above reasons, I choose to use React for this practice project.
+React is a Front-End Frameworrk, and it has many advantages such as modulized components, easy maintenance, etc. Most important, it is easy to pick up and is popular throughout recent front-end environment (Vue.js is like an elevator with nowadays). For the above reasons, I choose to use React for this practice project.
+
+## Why PostgreSQL
+
+There are plenty of database selections. I need a structured database so NoSQL, MongoDB won't be good choices. I choose to use PostgreSQL is that I have used before and it is not hard to implement.
+
+## Why Node.js & Express.js
+
+I am not familiar with backend environment so I choose a language that is similar to what I've learn now, and it comes Node.js and Express.js. Although some other languages such as PHP, Ruby on Rails, or Go. They all have their advantages. Further research is required for later projects.
+
+## Main Challenges
 
